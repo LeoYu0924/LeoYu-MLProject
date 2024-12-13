@@ -15,14 +15,14 @@
 
 
 ## Work Experience
-- Afterschool Assistance Site Supervisor ( Immigrant Social Services, Inc )               Nov. 2021 - May. 2024
+- Afterschool Assistance Site Supervisor
     - Managed daily site operations, staff coordination, student supervision, and parent communication
     - Expertly managed and analyzed student performance data using Excel to drive educational improvements
     - Trained in classroom de-escalation, trauma-informed practice, and social-emotional learning teaching
     - Attend monthly individual and group staff check-ins to update the team on each student’s risk and protective factors and
     - create or modify plans accordingly
 
-- Data Organizer ( NYPD Summer )            Jun 2020 - Aug 2020
+- Data Organizer 
     - Organized accessibility and clarity data in a name and data-ordered structure
     - Compiled and analyzed officer overtime data spanning 2019 to 2021
 
