@@ -3,7 +3,7 @@
 ### Education
 
 ### Porject 
-[Semester ML Project](https://docs.google.com/document/d/1EhBlzwm2er_rII-ovhO0kCGV0JG5dV7Vwto9Sbd8mdQ/edit?tab=t.0#heading=h.9knqyni76hsd)
+[Semester ML Project](file:///C:/Users/9966l/Downloads/cis_4130_project_milestone_5_Yu_Leo%20(1).pdf)
 
 ### Work Expeerience
 
