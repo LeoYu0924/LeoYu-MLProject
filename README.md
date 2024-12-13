@@ -9,7 +9,10 @@
 - Relevant Courses: Programming and Computational Thinking, Programming for Analytics, Database Management Systems, Intro to  Information Systems & Technologies, Systems Analysis and Design, Cybersecurity
 
 ## Porject 
-[Semester ML Project](https://docs.google.com/document/d/1EhBlzwm2er_rII-ovhO0kCGV0JG5dV7Vwto9Sbd8mdQ/edit?tab=t.0)
+- [Semester ML Project](https://docs.google.com/document/d/1EhBlzwm2er_rII-ovhO0kCGV0JG5dV7Vwto9Sbd8mdQ/edit?tab=t.0)
+    - Developed a complete machine learning pipeline incorporating big data technologies using cloud infrastructure, structured across six milestone deliverables.
+    - Ensured project originality and adhered to proper citation practices when referencing external code examples.
+
 
 ## Work Experience
 - Afterschool Assistance Site Supervisor ( Immigrant Social Services, Inc )               Nov. 2021 - May. 2024
